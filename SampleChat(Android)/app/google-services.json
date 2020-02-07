@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "276925683318",
+    "firebase_url": "https://content-curator-96062.firebaseio.com",
+    "project_id": "content-curator-96062",
+    "storage_bucket": "content-curator-96062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276925683318:android:165321534ba9f9e1bc3157",
+        "android_client_info": {
+          "package_name": "com.playsportsnetwork.polls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276925683318-npl4esvicp56rr0l2ehgign638uv16f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3_xxJw2Ru2wrWTH67V8PmOR1-2Mp0ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276925683318-npl4esvicp56rr0l2ehgign638uv16f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276925683318-e3lerq937jkqonbn5nv54q06cipodf6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.playsportsnetwork.tourmalet",
+                "app_store_id": "1455822746"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276925683318:android:a7554399919c218c",
+        "android_client_info": {
+          "package_name": "com.playsportsnetwork.tourmalet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276925683318-npl4esvicp56rr0l2ehgign638uv16f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3_xxJw2Ru2wrWTH67V8PmOR1-2Mp0ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276925683318-npl4esvicp56rr0l2ehgign638uv16f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276925683318-e3lerq937jkqonbn5nv54q06cipodf6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.playsportsnetwork.tourmalet",
+                "app_store_id": "1455822746"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276925683318:android:b550dcec65e351a0",
+        "android_client_info": {
+          "package_name": "com.playsportsnetwork.tourmalet.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276925683318-npl4esvicp56rr0l2ehgign638uv16f8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3_xxJw2Ru2wrWTH67V8PmOR1-2Mp0ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276925683318-npl4esvicp56rr0l2ehgign638uv16f8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276925683318-e3lerq937jkqonbn5nv54q06cipodf6e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.playsportsnetwork.tourmalet",
+                "app_store_id": "1455822746"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
